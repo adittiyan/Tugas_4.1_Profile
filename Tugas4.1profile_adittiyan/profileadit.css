@@ -1,0 +1,57 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.asep1 {
+    display: flex; 
+    float : left; 
+    margin-left :50px; 
+    margin-top:20px;
+}
+
+.asep2 {
+    display: inline; 
+    float:left; 
+    margin-left:20px; 
+    font-size : 17px;
+}
+
+.asep3 {
+    display: inline; 
+    float:right; 
+    margin-right:50px; 
+    font-size: 17px; 
+    text-align:right;
+}
+
+.sayang {
+    float: left; 
+    margin-left:50px;
+}
+
+.asep4 {
+    font-size: 17px;
+}
+
+.asep5 {
+    float: left; 
+    margin-left:50px;
+}
+
+.tayang1 {
+    width: 240;
+    height: 160;
+}
+
+#myCanvas {
+    width: 240px;
+    height: 160px;
+    border: 1px solid rgb(245, 26, 26); margin-left: 50px
+}
+
+.a1 {
+    float: right; 
+    margin-right:10px;
+}
